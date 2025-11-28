@@ -279,16 +279,16 @@ include __DIR__ . '/includes/header.php';
             </p>
 
             <div class="flex flex-col sm:flex-row gap-4 sm:gap-5 lg:gap-6 justify-center pt-4 sm:pt-6 px-4">
-                <button
-                    onclick="console.log('Agendar Sesion');"
+                <a href="contacto.php"
                     class="border-2 border-transparent bg-white text-primary-dark 
-       hover:bg-primary-dark hover:text-white hover:border-white 
-       px-8 sm:px-10 lg:px-12 py-5 sm:py-6 lg:py-7 text-sm sm:text-base lg:text-lg h-auto 
-       tracking-wide transition-all rounded-lg shadow-xl">
+    hover:bg-primary-dark hover:text-white hover:border-white 
+    px-8 sm:px-10 lg:px-12 py-5 sm:py-6 lg:py-7 text-sm sm:text-base lg:text-lg h-auto 
+    tracking-wide transition-all rounded-lg shadow-xl inline-block">
                     Agendar Primera Sesión
-                </button>
+                </a>
+
                 <a
-                    href="/servicios"
+                    href="servicios.php"
                     class="flex items-center justify-center bg-transparent border-2 border-white text-white hover:bg-white hover:text-primary-dark px-8 sm:px-10 lg:px-12 py-5 sm:py-6 lg:py-7 text-sm sm:text-base lg:text-lg h-auto tracking-wide transition-all rounded-lg shadow-xl">
                     Consultar Servicios
                 </a>

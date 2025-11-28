@@ -583,7 +583,7 @@ include __DIR__ . '/includes/header.php';
                         Política de Cancelación
                     </a>
                     <a
-                        href="#"
+                        href="/politica-de-privacidad"
                         class="inline-flex items-center justify-center text-primary-dark hover:text-accent-purple transition-colors tracking-wide gap-2 font-medium">
                         <svg class="w-5 h-5" xmlns="http://www.w3.org/2000/svg" width="24" height="24"
                             viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"

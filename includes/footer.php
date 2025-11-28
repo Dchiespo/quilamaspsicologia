@@ -35,19 +35,19 @@
                     </h4>
                     <ul class="space-y-2 text-sm text-white/70">
                         <li>
-                            <a href="/quilamas/servicios.php"
+                            <a href="/servicios.php"
                                class="hover:text-accent-purple transition-colors">
                                 Servicios
                             </a>
                         </li>
                         <li>
-                            <a href="/quilamas/sobre-mi.php"
+                            <a href="/sobre-mi.php"
                                class="hover:text-accent-purple transition-colors">
                                 Sobre mí
                             </a>
                         </li>
                         <li>
-                            <a href="/quilamas/contacto.php"
+                            <a href="/contacto.php"
                                class="hover:text-accent-purple transition-colors">
                                 Contacto
                             </a>
@@ -61,10 +61,10 @@
                         Páginas legales
                     </h4>
                     <ul class="space-y-2 text-sm text-white/70">
-                        <li><a href="#" class="hover:text-accent-purple transition-colors">Aviso legal</a></li>
-                        <li><a href="#" class="hover:text-accent-purple transition-colors">Política de privacidad</a></li>
-                        <li><a href="#" class="hover:text-accent-purple transition-colors">Política de cookies</a></li>
-                        <li><a href="#" class="hover:text-accent-purple transition-colors">Declaración de accesibilidad</a></li>
+                        <li><a href="/aviso-legal" class="hover:text-accent-purple transition-colors">Aviso legal</a></li>
+                        <li><a href="/politica-de-privacidad" class="hover:text-accent-purple transition-colors">Política de privacidad</a></li>
+                        <li><a href="/politica-de-cookies" class="hover:text-accent-purple transition-colors">Política de cookies</a></li>
+                        <li><a href="/declaracion-de-accesibilidad" class="hover:text-accent-purple transition-colors">Declaración de accesibilidad</a></li>
                     </ul>
                 </div>
 

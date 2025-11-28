@@ -49,10 +49,7 @@ $is_home_page = isset($is_home_page) ? (bool)$is_home_page : false;
         <div class="hidden md:flex items-center gap-10 text-[15px]">
             <a href="index.php" class="<?php echo $is_home_page ? 'text-white/80 hover:text-white' : 'text-secondary-gray hover:text-primary-dark'; ?>">Inicio</a>
             <a href="sobre-mi.php" class="<?php echo $is_home_page ? 'text-white/80 hover:text-white' : 'text-secondary-gray hover:text-primary-dark'; ?>">Sobre mí</a>
-            <a href="servicios.php" class="<?php echo $is_home_page ? 'text-white/80 hover:text-white' : 'text-secondary-gray hover:text-primary-dark'; ?>">Servicios</a>
-            <a href="index.php#proceso" class="<?php echo $is_home_page ? 'text-white/80 hover:text-white' : 'text-secondary-gray hover:text-primary-dark'; ?>">Proceso</a>
-            <a href="contacto.php" class="<?php echo $is_home_page ? 'text-white/80 hover:text-white' : 'text-secondary-gray hover:text-primary-dark'; ?>">Contacto</a>
-        </div>
+            <a href="servicios.php" class="<?php echo $is_home_page ? 'text-white/80 hover:text-white' : 'text-secondary-gray hover:text-primary-dark'; ?>">Servicios</a>        </div>
 
         <!-- CONTACTAR ESCRITORIO -->
         <a href="contacto.php"
@@ -82,7 +79,6 @@ $is_home_page = isset($is_home_page) ? (bool)$is_home_page : false;
 
     <a href="sobre-mi.php" class="block text-primary-dark tracking-wide mobile-link">Sobre mí</a>
     <a href="servicios.php" class="block text-primary-dark tracking-wide mobile-link">Servicios</a>
-    <a href="index.php#proceso" class="block text-primary-dark tracking-wide mobile-link">Proceso</a>
 
     <a href="contacto.php"
        class="block w-full text-center bg-primary-dark text-white py-3 rounded-lg font-medium mobile-link">
