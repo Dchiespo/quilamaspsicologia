@@ -16,12 +16,12 @@
 
                     <div class="pt-4 border-t border-white/20 space-y-3">
                         <img
-                            src="/quilamas/assets/logo financiado por la unión europea.png"
+                            src="/assets/logo financiado por la unión europea.png"
                             alt="Financiado por la Unión Europea NextGenerationEU"
                             class="h-12 w-auto mx-auto md:mx-0 opacity-90"
                         />
                         <img
-                            src="/quilamas/assets/logo plan de recuperación.png"
+                            src="/assets/logo plan de recuperación.png"
                             alt="Plan de Recuperación, Transformación y Resiliencia"
                             class="h-12 w-auto mx-auto md:mx-0 opacity-90"
                         />
